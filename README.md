@@ -1,9 +1,8 @@
-### Hi there 👋
+[![](splash.png)](https://andremov.github.io/)
+
+Hey! I'm Andrés. I'm an engineering student at the Universidad del Norte, currently finishing my bachelor's and starting my magister's. I'm a freelance full-stack web developer, photographer, video editor, designer, and Oxford comma enthusiast. If you're interested in more info, [click here!](https://andremov.github.io/)
 
 <!--
-**andremov/andremov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
