@@ -1,5 +1,5 @@
 [![](https://raw.githubusercontent.com/andremov/andremov/master/splash.png)](https://andremov.github.io/)
-[![Andres's github stats](https://github-readme-stats.vercel.app/api?username=andremov)](https://github.com/andremov/github-readme-stats)
+[![Andres's github stats](https://github-readme-stats.vercel.app/api?username=andremov?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Hey! I'm Andrés. I'm an engineering student at the Universidad del Norte, currently finishing my bachelor's and starting my magister's. I'm a freelance full-stack web developer, photographer, video editor, designer, and Oxford comma enthusiast. If you're interested in more info, [click here!](https://andremov.github.io/)
 
