@@ -1,9 +1,10 @@
 [![](https://raw.githubusercontent.com/andremov/andremov/master/splash.png)](https://andremov.github.io/)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=andremov&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andremov&count_private=true&show_icons=true" />
-</a>
+<div>
+  <img style="height: 100%" src="https://github-readme-stats.vercel.app/api?username=andremov&count_private=true&show_icons=true" />
+  <img style="height: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremov&layout=compact" />
+</div>
 Hey! I'm Andrés. I'm an engineering student at the Universidad del Norte, currently finishing my bachelor's and starting my magister's. I'm a freelance full-stack web developer, photographer, video editor, designer, and Oxford comma enthusiast. If you're interested in more info, [click here!](https://andremov.github.io/)
 
 <!--
