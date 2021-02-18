@@ -36,12 +36,12 @@
 
 - 🔭 I’m currently working on **VSCode extensions, Atom packages, and other fun projects!**
 - 🌱 I’m currently learning **PhaserJS, and NextJS**
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about **web design, and animation!**
 - 📫 How to reach me: **amovilla1103@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact, I published a mobile game when I was in high school!
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 👯 I’m looking to collaborate on ... -->
 
 
 <div align="center">
@@ -61,27 +61,27 @@
 
 ## Tech Stack
 
-##### Web Front-End
+#### Web Front-End
 <img src="https://img.shields.io/badge/netlify%20-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
 <img src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 
-##### Web Back-End
+#### Web Back-End
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
 <img src="https://img.shields.io/badge/express%20-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 <img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/nodemon%20-%2376D04B.svg?&style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon"/>
 
-##### Desktop
+#### Desktop
 <img src="https://img.shields.io/badge/electron%20-%2347848F.svg?&style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
 
-##### Mobile
+#### Mobile
 <img src="https://img.shields.io/badge/ionic%20-%233880FF.svg?&style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
 <img src="https://img.shields.io/badge/capacitor%20-%23119EFF.svg?&style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor"/>
 <img src="https://img.shields.io/badge/expo%20-%23000020.svg?&style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
 
 
-##### Other Tools
+#### Other Tools
 <img src="https://img.shields.io/badge/webstorm%20-%23000000.svg?&style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/>
 <img src="https://img.shields.io/badge/atom%20-%2366595C.svg?&style=for-the-badge&logo=atom&logoColor=white" alt="Atom"/>
 <img src="https://img.shields.io/badge/visual studio code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
