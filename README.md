@@ -6,8 +6,9 @@
 
 <img src="pp.png" alt="Profile picture" />
 
-# Hey! I'm Andrés Movilla
-## A Fullstack web developer from Colombia.
+<h1> Hey! I'm Andrés Movilla</h1>
+
+<h3> A Fullstack web developer from Colombia. </h3>
 
 <hr/>
 
