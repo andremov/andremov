@@ -30,7 +30,7 @@
 
 <div align="center">
 
-## Languages
+## About me
 
 </div>
 
