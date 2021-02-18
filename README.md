@@ -51,38 +51,38 @@
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/c sharp%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" alt="C Sharp"/>
-<img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/lua%20-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
 <img src="https://img.shields.io/badge/markdown%20-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+<img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/c sharp%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" alt="C Sharp"/>
+<img src="https://img.shields.io/badge/lua%20-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
 <!-- <img src="https://img.shields.io/badge/json%20-%23000000.svg?&style=for-the-badge&logo=json&logoColor=white" alt="JSON"/> -->
 
 ## Tech Stack
 
-#### Web Front-End
+### Web Front-End
 <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 <img src="https://img.shields.io/badge/netlify%20-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
 <img src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 
-#### Web Back-End
+### Web Back-End
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
 <img src="https://img.shields.io/badge/express%20-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 <img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/nodemon%20-%2376D04B.svg?&style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon"/>
 
-#### Desktop
+### Desktop
 <img src="https://img.shields.io/badge/electron%20-%2347848F.svg?&style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
 
-#### Mobile
+### Mobile
 <img src="https://img.shields.io/badge/ionic%20-%233880FF.svg?&style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
 <img src="https://img.shields.io/badge/capacitor%20-%23119EFF.svg?&style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor"/>
 <img src="https://img.shields.io/badge/expo%20-%23000020.svg?&style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
 
 
-#### Other Tools
+### Other Tools
 <img src="https://img.shields.io/badge/webstorm%20-%23000000.svg?&style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/>
 <img src="https://img.shields.io/badge/atom%20-%2366595C.svg?&style=for-the-badge&logo=atom&logoColor=white" alt="Atom"/>
 <img src="https://img.shields.io/badge/visual studio code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
