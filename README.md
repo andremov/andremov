@@ -139,7 +139,7 @@ Hey! I'm Andrés. I'm an engineering student at the Universidad del Norte, curre
 
 <div align="center">
 
-### GitHub stats
+## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=andremov&count_private=true&show_icons=true&bg_color=90,8454c8,7100d3&text_color=FFF&title_color=FFF&icon_color=FFF" />
 	<!--
