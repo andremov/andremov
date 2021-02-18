@@ -1,24 +1,15 @@
 
 
-<a href="https://andremov.github.io" target="blank">
 
 <div align="center">
 
+<a href="https://andremov.github.io" target="blank">
 <img src="pp.png" alt="Profile picture" />
 
 <h1> Hey! I'm Andrés Movilla</h1>
 
-<h3> A Fullstack web developer from Colombia. </h3>
-
-<hr/>
-
-</div>
-
 </a>
-
-<div align="center">
-
-## Links
+<h3> A Fullstack web developer from Colombia. </h3>
 
 <a href="https://github.com/andremov/" target="blank">
 <img src="https://img.shields.io/badge/github%20-%23161b22.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Andrés Movilla"/>
