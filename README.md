@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Andrés Movilla"/>
 </a>
 
-<a href="https://www.instgram.com/andremov/" target="blank">
+<a href="https://www.instagram.com/andremov/" target="blank">
 <img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Andrés Movilla"/>
 </a>
 
